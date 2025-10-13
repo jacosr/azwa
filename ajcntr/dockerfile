@@ -1,0 +1,3 @@
+FROM ubuntu:latest
+COPY aj.txt /data/aj.txt
+CMD ["cat", "/data/aj.txt"]
