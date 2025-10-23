@@ -1,0 +1,16 @@
+{
+  "name": "ajwa",
+  "version": "1.0.0",
+  "description": "ajwa",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {}
+}
